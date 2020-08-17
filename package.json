@@ -1,0 +1,14 @@
+{
+  "name": "@feizheng/charles-notes",
+  "version": "1.0.0",
+  "description": "Charles proxy notes.",
+  "homepage": "https://github.com/afeiship/charles-notes",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
